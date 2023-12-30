@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-195827_Termux](https://user-images.githubusercontent.com/81049859/209887300-faf9da95-6b25-44d6-808c-b5963d15a557.png)
+![1000285752](https://github.com/Juliocj7/GEOhackCj7/assets/81049859/6d066f15-3998-454d-98b6-731372e2bb3b)
 
 ## GEOhackCj7 :
 * Herramienta Phishing para capturar la ubicación de un dispositivo.
