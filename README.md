@@ -55,17 +55,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/GEOhackCj7 `
-
-* ` cd GEOhackCj7 `
-
-* ` chmod +x * `
-
-* ` bash GEOhackCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/GEOhackCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd GEOhackCj7 && chmod +x * && ./GEOhackCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
